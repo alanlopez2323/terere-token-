@@ -49,4 +49,4 @@ Seguinos en futuras redes sociales y contribuí a expandir este mate cripto-cult
 
 ## 🇵🇾 Hecho con orgullo desde Paraguay
 
-> _“Porque el tereré se comparte... y este token también.”_
+> _“ Así como el tereré se comparte, este token también.”_
