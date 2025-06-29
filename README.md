@@ -1,4 +1,4 @@
-# 🧉 Tereré Token (TR) - Contrato Oficial en Base Mainnet
+# 🍃🧊🧉 Tereré Token (TR) - Contrato Oficial en Base Mainnet
 
 **Nombre:** Tereré Token  
 **Símbolo:** TR  
