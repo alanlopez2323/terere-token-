@@ -4,7 +4,7 @@
 **Símbolo:** TR  
 **Red:** Base Mainnet  
 **Contrato oficial:** `0x0f339e208b05f7e600d29f61e6be56d33d4aec27`  
-[Ver en BaseScan](https://basescan.org/token/0x0f339e208b05f7e600d29f61e6be56d33d4aec27)
+[Ver en BaseScan](https://basescan.org/token/0x7e86F53F999e71dDF4AE9104dC27337046AfFC9E)
 
 ---
 
